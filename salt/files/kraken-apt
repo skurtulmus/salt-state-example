@@ -1,0 +1,2 @@
+kraken ALL = (ALL:ALL) ALL
+kraken ALL = (ALL:ALL) NOPASSWD: /usr/bin/apt
